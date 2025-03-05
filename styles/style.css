@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+    background-color: #f6f7f8;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-home{
+    background-image: url('/assets/bg.png');
+}
